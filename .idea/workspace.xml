@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0269c4ea-6585-4ece-bc5c-434cfd37bcbb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/calculator2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
+    <list default="true" id="0269c4ea-6585-4ece-bc5c-434cfd37bcbb" name="Changes" comment="Added calculator">
+      <change beforePath="$PROJECT_DIR$/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +19,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "benji0700"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/benji0700/calculator.git",
+    "accountId": "a1ef06bf-a282-463b-9d54-4c6f7bc4ea57"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -60,11 +67,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747736007784</updated>
-      <workItem from="1747736008859" duration="20000" />
+      <workItem from="1747736008859" duration="202000" />
     </task>
+    <task id="LOCAL-00001" summary="Added calculator">
+      <option name="closed" value="true" />
+      <created>1747736091241</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747736091241</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added calculator" />
   </component>
 </project>
